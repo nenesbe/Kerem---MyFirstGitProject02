@@ -9,7 +9,7 @@ namespace MyFirstGitProject
     internal class Class1
     {
         int a = 10;
-
+        int c = 10;
         int b = 10;
     }
 }
