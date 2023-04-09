@@ -12,6 +12,10 @@
             Console.WriteLine("hellosssss");
 
             Console.WriteLine("yeni");
+
+            Console.WriteLine("yeni");
+            Console.WriteLine("yeni");
+            Console.WriteLine("yeni");
         }
     }
 }
