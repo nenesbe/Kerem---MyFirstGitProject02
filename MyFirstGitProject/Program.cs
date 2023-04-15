@@ -4,12 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
-            Console.WriteLine("world");
-            Console.WriteLine("hello");
-            Console.WriteLine("world");
-            Console.WriteLine("hello");
-            Console.WriteLine("hellosssss");
+            Console.WriteLine("My Favorite Avengers");
+            Console.WriteLine("Iron man");
+            Console.WriteLine("Captain America");
+            Console.WriteLine("Hulk");
+            Console.WriteLine("Thor");
+            Console.WriteLine("Doctor Strange");
 
             Console.WriteLine("yeni");
 
